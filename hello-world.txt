@@ -1,0 +1,23 @@
+1. ПКМ src -> New -> Class
+   name: HelloWorld
+
+2. psvm
+public class HelloWorld {
+    psvm + Tab
+}
+
+3. sout
+public class HelloWorld {
+    public static void main(String[] args) {
+        sout + Tab
+    }
+}
+
+4. "Hello, world"
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world");
+    }
+}
+
+5. ПКМ file -> Run ...
